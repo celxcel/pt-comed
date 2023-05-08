@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>HOME</title>
+   <style type="text/css"> 
+   img {
+        border: 3px solid;
+        border-radius: 30%;
+        border-color: #ffffff;
+       }  
+       button {
+           border: none;
+           background: #718058;
+           border-radius: 5px;
+           padding: 5px;
+           color: #ffffff;
+           font-weight: bold;
+           font-size: 20px;
+           text-transform: uppercase;
+       }
+       button {
+           border: none;
+           background: #ffffff;
+           border-radius: 16px;
+           padding: 10px;
+           color: #ffffff;
+           font-weight:;
+           font-size: 10.2px;
+           text-transform: uppercase;
+       }
+   </style>
+</head>
+<body style="background-image: url('74c7489c1e9c4fe93fb24ab16eb16214.jpg');">   
+   <button><a href="page1.html">Home</button>
+   <button><a href="page2.html">Hobies</button>
+   <button><a href="page3.html">Arts</button>
+   <button><a href="page4.html">Fashion Styles</button>
+   <button><a href="page5.html">About me</button>
+   <a><img src="08101e053d8792d0fe9b70418082f00e.jpg" width="180" height="">
+   <p>✧________________________________✧</p>
+   <img src="0e91e4fc5c51df4315ba3e6c5b9b14e8.jpg" width="180" height="">
+   <p>✧________________________________✧</p>
+   <img src="1f598fc87b28e04a2ce167d66e425eac.jpg" width="180" height="">
+   <p>✧________________________________✧</p>
+   <img src="7d0c38f88032c73077fadbd28e24d01b.jpg" width="180" height="">
+   <p>✧________________________________✧</p>
+   <img src="1ab46b351eb204bac3545934ac0a170a.jpg" width="180" height="">
+   <p>✧________________________________✧</p>
+   <img src="IMG_20230504_083813.jpg" width="340" height="">
+   <p>✧________________________________✧</p>
+</body>
+</html>
