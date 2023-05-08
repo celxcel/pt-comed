@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>HOME</title>
+   <style type="text/css">
+   img {
+        border: 3px solid;
+        border-radius: 30%;
+        border-color: #ffffff;
+       }   
+       button {
+           border: none;
+           background: #718058;
+           border-radius: 5px;
+           padding: 5px;
+           color: #ffffff;
+           font-weight: bold;
+           font-size: 20px;
+           text-transform: uppercase;
+       }
+       button {
+           border: none;
+           background: #ffffff;
+           border-radius: 16px;
+           padding: 10px;
+           color: #ffffff;
+           font-weight:;
+           font-size: 10.2px;
+           text-transform: uppercase;
+       }
+   </style>
+</head>
+<body style="background-image: url('6552b892186da2f8b573fb5d369933ec.jpg');">   
+   <button><a href="page1.html">Home</button>
+   <button><a href="page2.html">Hobies</button>
+   <button><a href="page3.html">Arts</button>
+   <button><a href="page4.html">Fashion Styles</button>
+   <button><a href="page5.html">About me</button> 
+   <a><center><img src="IMG_20230504_085112.jpg" width="345" height="">
+   <a><center><img src="IMG_20230504_081849.jpg" width="200" height="">
+   <h1>✩Chelsy M Biscarra✩</h1>
+   <p>✧________________________________✧</p>
+   <h1>✩14 years old✩</h1>
+   <p>✧________________________________✧</p>
+   <h1>✩Grade 8 St. James the Great✩</h1>
+   <p>✧________________________________✧</p>
+</body>
+</html>
