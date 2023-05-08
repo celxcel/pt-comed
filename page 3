@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>HOME</title>
+   <style type="text/css"> 
+   img {
+        border: 3px solid;
+        border-radius: 30%;
+        border-color: white;
+       }  
+       button {
+           border: none;
+           background: #718058;
+           border-radius: 5px;
+           padding: 5px;
+           color: #ffffff;
+           font-weight: bold;
+           font-size: 20px;
+           text-transform: uppercase;
+       }
+       button {
+           border: none;
+           background: #ffffff;
+           border-radius: 16px;
+           padding: 10px;
+           color: #ffffff;
+           font-weight:;
+           font-size: 10.2px;
+           text-transform: uppercase;
+       }
+   </style>
+</head>
+<body style="background-image: url('74c7489c1e9c4fe93fb24ab16eb16214.jpg');">
+   <button><a href="page1.html">Home</button>
+   <button><a href="page2.html">Hobies</button>
+   <button><a href="page3.html">Arts</button>
+   <button><a href="page4.html">Fashion Styles</button>
+   <button><a href="page5.html">About me</button>
+   <a><center><img src="IMG_20230503_192128.jpg" width="340" height="255">
+   <h1>✧The Arts That I've Done✧</h1>
+   <p>✧And On The Bottom Are The Arts That I Love✧</p>
+   <center><img src="b0e53395ec59dd09cf8bad432d49dcd3.jpg" width="250" height="180">
+   <h1>✧Starry Night Over the Rhone✧</h1>
+   <p>✧By⁑ Vincent van Gogh✧
+   <center><img src="346e44f360717ad8ecea1e553bea6fd2.jpg" width="220" height="180">
+   <h1>✧Almond Blossom✧</h1>
+   <p>✧By⁑ Vincent van Gogh✧</p>
+   <center><img src="3911240e1b7b7068e29de1c382609971.jpg" width="230p" height="180">
+   <h1>✧River Seine✧</h1>
+   <p>✧By⁑ John William Ashton✧
+   <center><img src="ffe31f17605d6aeb3c22463d82acee1a.jpg" width="200" height="220">
+   <h1>✧Evening Along the Seine✧</h1>
+   <p>✧By⁑ John William Ashton✧
+   <a><center><img src="59130d7fbf37af60a3a9972c538c76a6.jpg" width="240" height="180">
+   <h1>✧The Great Wave of Kanagawa✧</h1>
+   <p>✧By⁑ Katsushika Hokusai✧
+</body>
+</html>
